@@ -4,3 +4,4 @@ TASK NUMBERS AND DESCRIPTIONS
 2. Let's display a file
 3. What about 2?
 4.Display the last 10 lines of /etc/passwd
+5.Display the first 10 lines of /etc/passwd
