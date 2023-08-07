@@ -9,3 +9,4 @@ TASK NUMBERS AND DESCRIPTIONS
 7. creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:)
 8.a script that writes into the file ls_cwd_content the result of the command ls -la.
 9. Duplicate last line
+10. No more javascript
