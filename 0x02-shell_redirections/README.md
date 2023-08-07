@@ -24,3 +24,5 @@ TASK NUMBERS AND DESCRIPTIONS
 22. Write a script that displays all users and their home directories, sorted by users.
 23. Empty casks make the most noise
 24. A gif is worth ten thousand words
+23. Empty casks make the most noise
+25. Acrostic
