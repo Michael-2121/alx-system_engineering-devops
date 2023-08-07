@@ -3,3 +3,4 @@ TASK NUMBERS AND DESCRIPTIONS
 1-confused_smiley
 2. Let's display a file
 3. What about 2?
+4.Display the last 10 lines of /etc/passwd
