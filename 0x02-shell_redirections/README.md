@@ -26,3 +26,4 @@ TASK NUMBERS AND DESCRIPTIONS
 24. A gif is worth ten thousand words
 23. Empty casks make the most noise
 25. Acrostic
+26. The biggest fan
