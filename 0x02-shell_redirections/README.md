@@ -13,3 +13,4 @@ TASK NUMBERS AND DESCRIPTIONS
 12. Create a script that displays the 10 newest files in the current directory
 11. Don't just count your directories, make your directories count
 13. Create a script that takes a list of words as input and prints only words that appear exactly once.
+14. Display lines containing the pattern “root” from the file /etc/passwd
